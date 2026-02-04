@@ -17,7 +17,6 @@ This project demonstrates a basic Battery Management System (BMS) model develope
 
 ## 📂 Model Features
 - Battery block with SOC
-- Voltage and current sensors
 - Temperature monitoring
 - BMS logic using comparators
 - Scope outputs for visualization
